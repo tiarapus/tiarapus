@@ -1,6 +1,6 @@
 # Hi, I am Tiara Puspita 👋
 
-**🎓 Recent Informatics Graduate | 💡 Passionate Coder | 🔍 Focused on Software Engineering, Data, and Machine Learning**
+### 🎓 Recent Informatics Graduate | 💡 Passionate Coder | 🔍 Focused on Software Engineering, Data, and Machine Learning
 
 Welcome to my GitHub! 🚀 I’m  driven to create impactful digital solutions and have been involved in various challenging projects throughout my learning journey. I’m always eager to learn, grow, and collaborate on exciting opportunities in the tech industry.
 
