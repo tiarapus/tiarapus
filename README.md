@@ -42,7 +42,9 @@ Welcome to my GitHub! 🚀 I’m  driven to create impactful digital solutions a
 
 ## 📊 Activity
 
-![Tiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiarapuspita&show_icons=true&theme=radical)
+![Tiara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiarapuspita&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiarapuspita&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tiarapuspita&theme=radical&no-frame=true&row=1&column=6)
 
 
 
