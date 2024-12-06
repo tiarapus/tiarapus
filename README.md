@@ -1,15 +1,14 @@
-## Hi there 👋
+## Hi, I am Tiara Puspita 👋
 
 **🎓 Recent Informatics Graduate | 💡 Passionate Coder | 🔍 Focused on Software Engineering, Data, and Machine Learning**
 
-Welcome to my GitHub! 🚀 I’m driven to create impactful digital solutions and have been involved in various challenging projects throughout my learning journey. I’m always eager to learn, grow, and collaborate on exciting opportunities in the tech world.
+Welcome to my GitHub! 🚀 I’m  driven to create impactful digital solutions and have been involved in various challenging projects throughout my learning journey. I’m always eager to learn, grow, and collaborate on exciting opportunities in the tech industry.
 
 📩 Feel free to connect with me to explore potential collaborations!
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://github.com/user-attachments/assets/4400a1a6-6a0d-4aea-80f1-4aca0f76e0fb)](https://www.linkedin.com/in/tiarapuspita-/)  
-[![Email](https://github.com/user-attachments/assets/e13d44f6-171b-4b00-9751-40e38b06ea38)](mailto:puspitatiara14@gmail.com)
+[![LinkedIn](https://github.com/user-attachments/assets/4400a1a6-6a0d-4aea-80f1-4aca0f76e0fb)](https://www.linkedin.com/in/tiarapuspita-/) [![Email](https://github.com/user-attachments/assets/e13d44f6-171b-4b00-9751-40e38b06ea38)](mailto:puspitatiara14@gmail.com)
 
 
 ## 💻 Tech Stacks 
