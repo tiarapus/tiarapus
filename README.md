@@ -40,7 +40,7 @@ Welcome to my GitHub! 🚀 I’m  driven to create impactful digital solutions a
 <img src="https://github.com/user-attachments/assets/733023ce-fb1a-434d-9404-24ca4a80cf93" width="50" /> 
 <img src="https://github.com/user-attachments/assets/7a6162ab-c866-494f-9c40-5d087d2a9d4a" width="50" /> 
 
-### 📊 Activity
+# 📊 Activity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiarapus&layout=compact&theme=radical)
 
