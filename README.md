@@ -40,11 +40,10 @@ Welcome to my GitHub! 🚀 I’m  driven to create impactful digital solutions a
 <img src="https://github.com/user-attachments/assets/733023ce-fb1a-434d-9404-24ca4a80cf93" width="50" /> 
 <img src="https://github.com/user-attachments/assets/7a6162ab-c866-494f-9c40-5d087d2a9d4a" width="50" /> 
 
-## 📊 Activity
+### 📊 Activity
 
-![Tiara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiarapus&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiarapus&layout=compact&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=tiarapus&theme=radical&no-frame=true&row=1&column=6)
+
 
 
 
